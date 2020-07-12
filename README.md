@@ -3,7 +3,7 @@
 
 ## [Movie Search](https://datamining-282603.ue.r.appspot.com/search)
 
-## Implementaion
+## Implementation
 
 Step 1: Calculate TF of each doc
 ```
