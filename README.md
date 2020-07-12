@@ -77,7 +77,7 @@ def calculate_cosine_similarity(self,tfidf_vector, tfidf_vector_list):
   return multiplication/den
 ```
 
-## [Movie Classify](https://datamining-282603.ue.r.appspot.com/classify)
+## [Movie Classification](https://datamining-282603.ue.r.appspot.com/classify)
 
 ## Implementation
 ```
