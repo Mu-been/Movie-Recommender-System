@@ -79,7 +79,7 @@ def calculate_cosine_similarity(self,tfidf_vector, tfidf_vector_list):
 
 ## [Movie Classify](https://datamining-282603.ue.r.appspot.com/classify)
 
-## Implementation: 
+## Implementation
 ```
 def initialize(self,x_train, y_train, genres):
   self.genres = genres
@@ -117,7 +117,7 @@ def predict(self,x_test):
 
 ## [Movie Recommendation](https://datamining-282603.ue.r.appspot.com/recommendation)
 
-## Implementation:
+## Implementation
 ```
 def calculate_cosine_similarity():
     cosine_sim_all = cosine_similarity(tfidf_vector,tfidf_vector)
